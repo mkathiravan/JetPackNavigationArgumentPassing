@@ -63,3 +63,6 @@ In the ProfileArgument while receiving the arguments from HomeFragment we have t
             " City :  "
             + args.getProfileCity());
   }
+  
+  
+  ![image](https://user-images.githubusercontent.com/39657409/79437377-ba6f7780-7fef-11ea-9913-24deff584cda.png)
